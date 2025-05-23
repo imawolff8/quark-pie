@@ -20,11 +20,11 @@
 
 ## 截图
 
-![capture-1](https://github.com/user-attachments/assets/ac5ac149-934a-4585-a0b9-509ca5f26d76)
-![capture-2](https://github.com/user-attachments/assets/8abdec2d-d45a-4d63-b4b9-e6777a415148)
-![capture-3](https://github.com/user-attachments/assets/1948f7b0-d792-44d6-b3c7-c33f92945c68)
-![capture-4](https://github.com/user-attachments/assets/6e17e1f1-c4c7-4d96-a9c8-ae14aacbcacf)
-![capture-5](https://github.com/user-attachments/assets/8415447d-b5f4-4b54-a654-6bd09336c577)
+<img src="https://github.com/user-attachments/assets/8abdec2d-d45a-4d63-b4b9-e6777a415148" width="400">
+<img src="https://github.com/user-attachments/assets/1948f7b0-d792-44d6-b3c7-c33f92945c68" width="400">
+<img src="https://github.com/user-attachments/assets/6e17e1f1-c4c7-4d96-a9c8-ae14aacbcacf" width="400">
+<img src="https://github.com/user-attachments/assets/8415447d-b5f4-4b54-a654-6bd09336c577" width="400">
+
 
 ## 下载
 
