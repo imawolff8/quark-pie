@@ -30,8 +30,8 @@
 
 ### 安卓
 
-* [官网](https://eas.dig77.com/android/quark_pie.apk)
-* [Github Release](https://eas.dig77.com/android/quark_pie.apk)
+* [官网](https://app.887676.xyz)
+* [Github Release](https://github.com/imawolff8/quark-pie/releases)
 
 ### iOS
   
