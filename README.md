@@ -18,6 +18,13 @@
 
    一键分享热门资源给朋友
 
+## 所需权限
+
+夸克派极致干净，不需要任何用户权限。
+
+<img src="https://github.com/user-attachments/assets/d9fec04e-1d5b-4405-8d1e-1dacc63d2296" width="400">
+
+
 ## 截图
 
 <img src="https://github.com/user-attachments/assets/8abdec2d-d45a-4d63-b4b9-e6777a415148" width="400">
