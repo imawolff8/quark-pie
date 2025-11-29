@@ -31,17 +31,17 @@
 <img src="https://github.com/user-attachments/assets/1948f7b0-d792-44d6-b3c7-c33f92945c68" width="400">
 <img src="https://github.com/user-attachments/assets/8415447d-b5f4-4b54-a654-6bd09336c577" width="400">
 <img src="https://github.com/user-attachments/assets/e842e289-69f5-4388-9c8d-85f8c395aba8" width="400">
+<img src="https://github.com/user-attachments/assets/1ca9a93a-f14f-460a-a26f-db317932adc8" width="400"/>
+
 
 ## 下载
 
 ### 安卓
 
-* [官网](https://app.887676.xyz)
+* [官网](https://app.talkno.de)
 * [Github Release](https://github.com/imawolff8/quark-pie/releases)
 
 ### iOS
   
 尚未开放。
-
-
 
