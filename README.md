@@ -39,6 +39,7 @@
 ### 安卓
 
 * [官网](https://app.talkno.de)
+* [Google Play](https://play.google.com/store/apps/details?id=com.domi.quarkpie)
 * [Github Release](https://github.com/imawolff8/quark-pie/releases)
 
 ### iOS
